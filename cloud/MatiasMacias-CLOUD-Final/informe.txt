@@ -1,5 +1,0 @@
-Link al informe: https://www.notion.so/matmac945/Cloud-Final-f4c420e68b594405a43c11ff83f01b78
-Contiene una descripción del proceso a seguir para hacer el deploy de un servicio de machine-learning en la nube de azure 
-
-
-Matías Macías Gómez, Universidad de Antioquia, Facultad de Ingenieria de Sistemas, Mayo 2021
