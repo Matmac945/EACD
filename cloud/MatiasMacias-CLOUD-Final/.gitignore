@@ -1,0 +1,11 @@
+# azure configuration file
+/config.json
+
+# models
+outputs/
+
+# vscode
+.vscode/
+
+# empty folders
+.config/
